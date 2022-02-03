@@ -1,7 +1,7 @@
 # StoreApI
 A backend API for an online store
 
-Technologies Used
+# Technologies Used
 ~NodeJS
 ~Express
 ~MongoDB
